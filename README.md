@@ -1,4 +1,6 @@
-# This site was made using the Creator Links repository i have made!
+# This site was made using the Creator Links repository I made!
+
+---
 
 ## How To Access
 
